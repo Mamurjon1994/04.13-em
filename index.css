@@ -1,0 +1,57 @@
+.qora{ 
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    font-size: 20px;
+    background-color: rgb(37, 30, 30);
+    width: 50em;
+    display: flex;
+    padding: 3%;
+    
+}
+.it{ background-color: brown;
+color: aliceblue;
+height: 1.5em;
+padding: 1%;
+position: relative;
+top: 35%;
+margin-top: 2em;
+margin-left: 25em;
+
+}
+h1{color: aliceblue;}
+h4{ color: brown;}
+
+.qora2{ 
+    position: fixed;
+    top: 60%;
+    left: 10%;
+    font-size: 20px;
+    background-color: rgb(37, 30, 30);
+    width: 50em;
+    height: 7em;
+    
+    padding: 3%;
+}
+nav{justify-content: center;}
+ul{ display: flex;
+    justify-content: center;
+
+}
+li{
+   
+    margin: 1em;}
+    ul li {list-style: none;}
+    ul li a{text-decoration: none;
+    color: aliceblue;}
+    
+
+span{color: brown;}
+.pasti{ 
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+justify-content: center;
+position: relative;
+top: 5%;
+}
